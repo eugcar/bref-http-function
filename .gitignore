@@ -1,0 +1,6 @@
+.aws/config
+.aws/credentials
+/.idea/
+/.serverless/*
+!/.serverless/.gitignore
+/vendor/

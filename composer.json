@@ -1,0 +1,7 @@
+{
+    "name": "eugcar/bref-hello-world",
+    "type": "project",
+    "require": {
+        "bref/bref": "^0.5.29"
+    }
+}
